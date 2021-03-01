@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "node server.js",
-    "startOld": "ng serve",   
+    "startOld": "ng serve",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
@@ -20,6 +20,7 @@
     "@angular/platform-browser": "~11.2.3",
     "@angular/platform-browser-dynamic": "~11.2.3",
     "@angular/router": "~11.2.3",
+    "express": "^4.17.1",
     "highcharts": "^9.0.1",
     "highcharts-angular": "^2.10.0",
     "rxjs": "~6.6.0",
